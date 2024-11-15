@@ -1,6 +1,6 @@
 # GitHub Actions 下载脚本配置
 dir_rule:
-  base_dir: ${JM_DOWNLOAD_DIR}
+  base_dir: D:\Usersoft\Downloads\NVbooks\未上传 # ${JM_DOWNLOAD_DIR}
   rule: Bd / Ptitle  #Bd_Aauthor_Atitle_Pindex
 
 client:
