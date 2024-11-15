@@ -183,7 +183,7 @@ class JmModuleConfig:
     CLASS_DOWNLOADER = None
     CLASS_OPTION = None
     CLASS_ALBUM = None
-    CLASS_PHOTO = None
+    CLASS_PHOTO = 'Bd_Pindextitle'
     CLASS_IMAGE = None
 
     # 客户端注册表
